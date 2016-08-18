@@ -4,4 +4,5 @@ void main()
 	printf("hello\r\n");
 	printf("aa\r\n");
         pirntf("my nodify 5\r\n")
+	printf("modify 6");
 }
